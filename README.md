@@ -1,5 +1,3 @@
-# mysql_db_sync_backup
-
 <h1>MYSQL DB Backup Files:</h1>
 <b>DBSy.VBS</b> 
  # this vbs will be helpful to run task/cron job on silent mode. It is useful when your setupping in Windows environment.
